@@ -1,0 +1,36 @@
+{
+  "name": "max-npm-quality",
+  "version": "1.0.11",
+  "description": "Optimize the quality score of your package on npmjs.org",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/BasLee/max-npm-quality.git"
+  },
+  "homepage": "https://github.com/BasLee/max-npm-quality",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "build": "tsc --declaration index.ts"
+  },
+  "files": [
+    "index.js",
+    "package.json",
+    "README.md",
+    "index.test.ts"
+  ],
+  "keywords": [
+    "sum",
+    "math",
+    "proof-of-concept"
+  ],
+  "author": "BasLee",
+  "bugs": {
+    "url": "https://github.com/BasLee/max-npm-quality/issues"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "@jest/globals": "^29.6.4",
+    "jest": "^29.6.4",
+    "ts-jest": "^29.1.1"
+  }
+}
