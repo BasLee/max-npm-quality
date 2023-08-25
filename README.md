@@ -1,11 +1,11 @@
 # max-npm-quality
-[![npm version](https://badge.fury.io/js/max-npm-quality.svg)](https://badge.fury.io/js/max-npm-quality) ![build](https://github.com/BasLee/max-npm-quality/actions/workflows/build.yml/badge.svg)
 
-Optimize the npm quality score of your (typescript) project on npmjs.org by adding these files:
+Optimize the npm quality score of your (typescript) project on npmjs.org by adding these files and dependencies:
 - index.js
 - package.json
 - README.md
-- test/index.test.ts (size > 400 bytes?)
+- LICENSE.md
+- index.test.ts (size > 400 bytes?)
 - tslint devDependency
 
 Current quality score: [89%](https://www.npmjs.com/search?q=max-npm-quality)

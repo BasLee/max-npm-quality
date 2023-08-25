@@ -1,6 +1,6 @@
 {
   "name": "max-npm-quality",
-  "version": "1.0.28",
+  "version": "1.0.31",
   "description": "Optimize the quality score of your package on npmjs.org",
   "repository": {
     "type": "git",
@@ -16,10 +16,7 @@
     "index.js",
     "package.json",
     "README.md",
-    "tsconfig.json",
-    "jest.config.js",
-    "test/*",
-    "src/*"
+    "index.test.ts"
   ],
   "keywords": [
     "sum",

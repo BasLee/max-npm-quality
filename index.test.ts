@@ -1,5 +1,5 @@
 import {describe, expect, test} from '@jest/globals';
-import {sum} from '../src';
+import {sum} from './index';
 
 describe('sum', () => {
   test('a + b = c', () => {
