@@ -1,7 +1,6 @@
 {
   "name": "max-npm-quality",
-  "version": "1.0.21",
-  "version": "1.0.18",
+  "version": "1.0.28",
   "description": "Optimize the quality score of your package on npmjs.org",
   "repository": {
     "type": "git",
@@ -38,6 +37,7 @@
     "ts-jest": "^29.1.1",
     "@rollup/plugin-commonjs": "^21.0.1",
     "rollup-plugin-dts": "4.0.1",
-    "rollup": "2.61.1"
+    "rollup": "2.61.1",
+    "tslint": "^5.20.1"
   }
 }
