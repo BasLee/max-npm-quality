@@ -4,7 +4,7 @@ Optimize the npm quality score of your (typescript) project on npmjs.org by addi
 - index.js
 - package.json
 - README.md
-- index.test.ts
+- test/index.test.ts (size > 400 bytes?)
 
 Current quality score: [80%](https://www.npmjs.com/search?q=max-npm-quality)
 

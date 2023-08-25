@@ -1,8 +1,10 @@
 {
   "compilerOptions": {
-    "esModuleInterop": true
+    "esModuleInterop": true,
+    "outDir": "",
+    "declaration": true
   },
   "include": [
-    "index.ts",
+    "src/index.ts",
   ]
 }
