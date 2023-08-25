@@ -1,6 +1,7 @@
 {
   "name": "max-npm-quality",
   "version": "1.0.21",
+  "version": "1.0.18",
   "description": "Optimize the quality score of your package on npmjs.org",
   "repository": {
     "type": "git",
